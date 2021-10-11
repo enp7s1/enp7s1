@@ -1,4 +1,8 @@
 ### Hi there 👋
+Rust, JavaScript, Typescript and Golang programmer.
+
+- 📫 How to reach me: **enp7s1#6707** on discord
+- 🌱 I’m currently learning C++ and C
 
 <!--
 **enp7s1/enp7s1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
